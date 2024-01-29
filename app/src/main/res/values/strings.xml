@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">9章課題:k023c6009</string>
+    <string name="lb_name">名前：</string>
+    <string name="tv_syoji">所持金:</string>
+
+    <string name="bt_store1">店１</string>
+    <string name="tv_store1">カップラーメン</string>
+    <string name="bt_store2">店２</string>
+    <string name="tv_store2">おつまみ</string>
+    <string name="bt_bank">銀行</string>
+    <string name="bt_return">戻る</string>
+    <string name="bt_return1">最初の画面に戻る</string>
+    <string name="bt_returnList">リストに戻る</string>
+    <string name="tv_bank">銀行</string>
+    <string name="tv_redraw">引き出し</string>
+    <string name="bt_check">確認</string>
+    <string name="lb_message">メッセージ</string>
+    <string name="menu_list_options_food">ごはん</string>
+    <string name="menu_list_options_drink">ドリンク</string>
+    <string name="menu_list_options_otumami">おつまみ</string>
+
+    <string name="menu_list_context_desc">説明を表示</string>
+    <string name="menu_list_context_order">ご注文</string>
+    <string name="menu_list_context_header">操作を選んでください</string>
+    <string name="tv_menu_unit">円</string>
+
+
+
+</resources>
